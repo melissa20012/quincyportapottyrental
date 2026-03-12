@@ -1,0 +1,50 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do you service the porta-potties during long-term rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our rentals include weekly cleaning, pumping, and restocking for ongoing sanitation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent ADA-compliant portable toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer ADA-accessible units for events and job sites requiring accessible restrooms.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What maintenance is included in long-term rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Weekly cleaning, restocking, and waste pumping are included in long-term rental packages.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can your restroom trailer rentals be used as temporary offices?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While our luxury portable restrooms are designed for sanitation, the high-end, climate-controlled interiors of our larger restroom trailer models have been used by clients as clean, private spaces for on-site managers in conjunction with their primary office trailers.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Does a restroom rental trailer require on-site staff?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For high-end galas and events, we highly recommend and can provide a uniformed attendant. The attendant keeps the portable restrooms for weddings or corporate events impeccably clean, restocks supplies, and ensures everything runs smoothly for your guests.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer restroom trailers for upscale events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide luxury restroom trailers with sinks, lighting, and flushing toilets.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
